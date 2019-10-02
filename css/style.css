@@ -39,11 +39,11 @@ p {
 }
 h1 {
     margin: 0px;
-    color: darkblue;
+    color: black;
     right: 10px;
     font-size: 150px;
     font-family: 'Courier New', Courier, monospace;
-    font-style: oblique;
+    font-style: inherit;
     display: flex;
     justify-content: center;
     margin-inline-start: -10%;
